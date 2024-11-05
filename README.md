@@ -9,7 +9,7 @@ I am a full-stack web developer in the making Passionate about creating visual a
 * 🌍  I'm based in Nigeria
 * 🖥  See my portfolio at [My portfolio](http://oluwamayokun.vercel.app)
 * ✉  You can contact me at [adelekeoluwamayokun27@gmail.com](mailto:adelekeoluwamayokun27@gmail.com)
-* 🧠  I'm learning I am currently honing my React.js skill to the intermediate role and picking up the pieces of Next.js along the way
+* 🧠  I am currently honing my React.js skill to the intermediate role and picking up the pieces of Next.js along the way
 * 🤝  I'm open to collaborating on Interesting project
 * ⚡  I'm a great guy overall, BuggyBillions made me alright
 
